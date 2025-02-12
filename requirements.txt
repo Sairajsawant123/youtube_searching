@@ -1,1 +1,1 @@
-pip install youtube_search
+pip install youtube-search
